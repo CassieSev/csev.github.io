@@ -1,12 +1,7 @@
 ---
 layout: page
-title: About
+title: Contact Me
 sidebar_link: true
 ---
 
-<p class="message">
-  I am ____, a Ph.D. student at Cornell University!
-</p>
-
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+You may find me at jms949@cornell.edu.
