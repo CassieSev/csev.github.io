@@ -21,4 +21,4 @@ I am a *very* avid board gamer.  Some of my favorites to play are _Terraforming 
 
 I also love video games, with a focus on rogue-lites and souls-like games.
 
-I am unfortunately not a music conossieur, but I must confess to a soft spot for Vocaloid (and other vocal synths)
+I am unfortunately not a music conossieur, but I must confess to a soft spot for Vocaloid (and other vocal synths).
